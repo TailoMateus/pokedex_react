@@ -96,3 +96,4 @@ Visualização do pokemon:
 
 - O projeto foi iniciado com `create-react-app`.
 - Usar algum editor que tenha suporte ao `editorConfig`.
+- Utilizado a API [PokéAPI](https://pokeapi.co/)
